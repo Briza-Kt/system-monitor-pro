@@ -1,0 +1,5 @@
+venv/
+.env
+relatorio_sistema.txt
+__pycache__/
+*.pyc
